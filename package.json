@@ -1,0 +1,16 @@
+{
+  "name": "sass-vara",
+  "version": "1.0.0",
+  "description": "Get a color with an alpha value from your variable",
+  "main": "index.sass",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sass",
+    "function",
+    "alpha"
+  ],
+  "author": "Adam Kiss",
+  "license": "ISC"
+}
